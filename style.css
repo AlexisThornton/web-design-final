@@ -1,0 +1,95 @@
+body {
+  background-color: EFE8FA;
+  font-family: serif;
+  margin:0;}
+
+header{
+  background-color: DBC4ED; 
+  text-align: center;  
+  padding:10px;}
+
+footer{
+  background-color: #d2c3f0;
+  color: #efe8fa;
+  font-size: 15px;
+  text-align: center;  
+  padding:5px; 
+  position:absolute;
+    right: 0;
+    bottom:0;
+    left: 0;}
+
+h1{
+  color:583c6e; 
+  text-align:center; 
+  font-size:35px;}
+
+h2{
+  color:76578f;}
+
+p{
+  font-size: 20px;
+  color:2d2337;
+  text-indent:10px
+  }
+
+img{
+  height:200;
+  border: 10px solid #d9ccf3;}
+
+aside{ 
+  background-color:c4b0eb;
+  color:f6f1fd;
+  border: 3px solid #583c6e;
+  text-align:center;
+  font-size:15px;
+  padding: 5px;
+  position: fixed;
+  z-index: 1;
+  top: 150;
+  right: 5;
+  width:200px; 
+  height: 300px;
+  float:right;}
+
+a{ 
+  color:64467d; 
+  font-size:15px;}
+
+a:visited{
+  color: 997db4;}
+
+a:hover{
+  color: c8b5ed;}
+
+
+#floatl{
+  float:left;}
+
+#floatr{
+  position:absolute;
+  left:715;
+  top:245;}
+
+#center{
+  text-align:center;}
+
+.breadcrumbs{
+  color:64467d; 
+  background-color:EDE0F5;
+  font-size:15px;
+  padding:2px;}
+
+.line{
+  text-align:center;}
+
+.key{
+  font-size: 200%;
+  color: #AB86F6}
+
+.credit{
+  margin:60px;
+  font-weight:bold;}
+
+.space{
+  height:120;}
